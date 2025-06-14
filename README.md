@@ -1,1 +1,1 @@
-# mastering_spaCy
+Mastering spaCy book.
